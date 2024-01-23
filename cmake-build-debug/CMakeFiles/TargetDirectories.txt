@@ -1,0 +1,3 @@
+/Users/hank/CLionProjects/HelloAESP424/cmake-build-debug/CMakeFiles/HelloAESP424.dir
+/Users/hank/CLionProjects/HelloAESP424/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hank/CLionProjects/HelloAESP424/cmake-build-debug/CMakeFiles/rebuild_cache.dir
